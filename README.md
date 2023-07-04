@@ -1,7 +1,7 @@
 # Codewars Python
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
-
+| 7 | [Convert a Number to a String]([https://www.codewars.com/kata/58f0ba42e89aa6158400000e](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/)) | [number_to_string.py]() |
 
 ## Kata Ranking (kyu)
 *source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
