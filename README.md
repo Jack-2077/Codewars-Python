@@ -1,7 +1,14 @@
 # Codewars Python
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
-| 7 | [Convert a Number to a String]([https://www.codewars.com/kata/58f0ba42e89aa6158400000e](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/)) | [number_to_string.py]() |
+| 8 kyu | [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [maps.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/maps.py) |
+| 8 kyu | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [repeat_str.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/repeat_str.py) |
+| 8 kyu | [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | [sum_mix.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/sum_mix.py) |
+| 8 kyu | [Removing Elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2) | [remove_every_other.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/remove_every_other.py) |
+| 8 kyu | [Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd) | [paperwork.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/paperwork.py) |
+| 8 kyu | [Grasshopper - Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) | [get_grade.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/get_grade.py) |
+| 8 kyu | [Convert boolean values to strings 'Yes' or 'No'](https://www.codewars.com/kata/53369039d7ab3ac506000467) | [bool_to_word.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/bool_to_word.py) |
+
 
 ## Kata Ranking (kyu)
 *source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
