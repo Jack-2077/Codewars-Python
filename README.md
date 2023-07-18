@@ -1,6 +1,8 @@
 # Codewars Python
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+ 8 | [Square(n) Sum](https://www.codewars.com//kata/515e271a311df0350d00000f) | [square_sum.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/square_sum.py) |
+| 8 | [Counting sheep...](https://www.codewars.com//kata/54edbc7200b811e956000556) | [count_sheep.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/count_sheep.py) |
 | 8 | [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [maps.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/maps.py) |
 | 8 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [repeat_str.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/repeat_str.py) |
 | 8 | [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | [sum_mix.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/sum_mix.py) |
