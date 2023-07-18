@@ -7,3 +7,5 @@ def accum(s):
 # output += (s[x] * (x+1)) + "-"
 # return output.title()[:-1]
 
+#return '-'.join(c.upper() + c.lower() * i for i, c in enumerate(s))
+
