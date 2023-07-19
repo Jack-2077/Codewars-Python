@@ -2,6 +2,7 @@
 ## 7 Kyu
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 7 | [String ends with?](https://www.codewars.com//kata/51f2d1cafc9c0f745c00037d) | [str_end.py](https://github.com/Jack-2077/Codewars-Python/tree/main/7-kyu/str_end.py) |
 | 7 | [Mumbling](https://www.codewars.com//kata/5667e8f4e3f572a8f2000039) | [accum.py](https://github.com/Jack-2077/Codewars-Python/tree/main/7-kyu/accum.py) |
 | 7 | [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7) | [oddOrEven.py](https://github.com/Jack-2077/Codewars-Python/tree/main/7-kyu/oddOrEven.py) |
 | 7 | [Remove the minimum](https://www.codewars.com//kata/563cf89eb4747c5fb100001b) | [remove_smallest.py](https://github.com/Jack-2077/Codewars-Python/tree/main/7-kyu/remove_smallest.py) |
