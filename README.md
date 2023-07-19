@@ -9,6 +9,8 @@
 ## 8 Kyu
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 8 | [Sentence Smash](https://www.codewars.com//kata/53dc23c68a0c93699800041d) | [sentence_smash.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/sentence_smash.py) |
+| 8 | [Reversed Strings](https://www.codewars.com//kata/5168bb5dfe9a00b126000018) | [reversed_strings.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/reversed_strings.py) |
  8 | [Square(n) Sum](https://www.codewars.com//kata/515e271a311df0350d00000f) | [square_sum.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/square_sum.py) |
 | 8 | [Counting sheep...](https://www.codewars.com//kata/54edbc7200b811e956000556) | [count_sheep.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/count_sheep.py) |
 | 8 | [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [maps.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/maps.py) |
