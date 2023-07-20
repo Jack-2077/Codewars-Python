@@ -9,6 +9,8 @@
 ## 8 Kyu
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 8 | [Double Char](https://www.codewars.com//kata/56b1f01c247c01db92000076) | [double_char.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/double_char.py) |
+| 7 | [Get the Middle Character](https://www.codewars.com//kata/56747fd5cb988479af000028) | [get_middle.py](https://github.com/Jack-2077/Codewars-Python/tree/main/7-kyu/get_middle.py) |
 | 8 | [Sentence Smash](https://www.codewars.com//kata/53dc23c68a0c93699800041d) | [sentence_smash.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/sentence_smash.py) |
 | 8 | [Reversed Strings](https://www.codewars.com//kata/5168bb5dfe9a00b126000018) | [reversed_strings.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/reversed_strings.py) |
  8 | [Square(n) Sum](https://www.codewars.com//kata/515e271a311df0350d00000f) | [square_sum.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/square_sum.py) |
