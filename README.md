@@ -2,6 +2,7 @@
 ## 7 Kyu
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 7 | [Sum of the first nth term of Series](https://www.codewars.com//kata/555eded1ad94b00403000071) | [series_sum.py](https://github.com/Jack-2077/Codewars-Python/tree/main/7-kyu/series_sum.py)
 | 7 | [String ends with?](https://www.codewars.com//kata/51f2d1cafc9c0f745c00037d) | [str_end.py](https://github.com/Jack-2077/Codewars-Python/tree/main/7-kyu/str_end.py) |
 | 7 | [Mumbling](https://www.codewars.com//kata/5667e8f4e3f572a8f2000039) | [accum.py](https://github.com/Jack-2077/Codewars-Python/tree/main/7-kyu/accum.py) |
 | 7 | [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7) | [oddOrEven.py](https://github.com/Jack-2077/Codewars-Python/tree/main/7-kyu/oddOrEven.py) |
