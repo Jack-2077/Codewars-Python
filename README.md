@@ -10,6 +10,7 @@
 ## 8 Kyu
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 8 | [Calculate average](https://www.codewars.com//kata/57a2013acf1fa5bfc4000921) | [find_average.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/find_average.py) |
 | 8 | [Double Char](https://www.codewars.com//kata/56b1f01c247c01db92000076) | [double_char.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/double_char.py) |
 | 8 | [Get the Middle Character](https://www.codewars.com//kata/56747fd5cb988479af000028) | [get_middle.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/get_middle.py) |
 | 8 | [Sentence Smash](https://www.codewars.com//kata/53dc23c68a0c93699800041d) | [sentence_smash.py](https://github.com/Jack-2077/Codewars-Python/tree/main/8-kyu/sentence_smash.py) |
